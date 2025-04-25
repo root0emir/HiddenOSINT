@@ -29,7 +29,7 @@
 1. Clone or download the repository:
 
 ```bash
-git clone https://github.com/username/HiddenOSINT.git
+git clone https://github.com/root0emir/HiddenOSINT.git
 cd HiddenOSINT
 ```
 
